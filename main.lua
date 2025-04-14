@@ -1,5 +1,5 @@
--- name: Construction
--- description: loony lunchly
+-- name: DXA Hack
+-- description: the hack r98ewh78973242374239874273894879243978248
 
 smlua_text_utils_course_acts_replace(COURSE_WF, (" 1 CONSTRUCTION LEVEL"),    ("ON THE COLUMNS"),    ("FIND THE GRILL SWTICH"),    ("MYSTIC STONES OF THE LAKE"),    ("SECRET OVER THE LONE BLUE COIN"),    ("CAVE OF THE LAKE -SB-"),    ("OVER THE RAILROAD -WB-"))
 
