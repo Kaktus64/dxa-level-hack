@@ -5,3 +5,5 @@ smlua_text_utils_course_acts_replace(COURSE_WF, (" 1 CONSTRUCTION LEVEL"),    ("
 
 local starPositions = gLevelValues.starPositions
 vec3f_set(starPositions.KingWhompStarPos, -5116, -4306, -5381)
+
+E_MODEL_CAVESTAR = smlua_model_util_get_id("cavestar_geo")

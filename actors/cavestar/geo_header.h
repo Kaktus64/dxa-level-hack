@@ -1,0 +1,15 @@
+extern const GeoLayout cavestar_geo[];
+extern Lights1 cavestar_Eyez_lights;
+extern u8 cavestar_star_surface_rgba16_ci8[];
+extern u8 cavestar_star_surface_rgba16_pal_rgba16[];
+extern u8 cavestar_star_eye_rgba16_ia8[];
+extern Vtx cavestar_000_displaylist_mesh_layer_1_vtx_0[14];
+extern Gfx cavestar_000_displaylist_mesh_layer_1_tri_0[];
+extern Vtx cavestar_001_displaylist_mesh_layer_4_vtx_0[8];
+extern Gfx cavestar_001_displaylist_mesh_layer_4_tri_0[];
+extern Gfx mat_cavestar_StarMat[];
+extern Gfx mat_revert_cavestar_StarMat[];
+extern Gfx mat_cavestar_Eyez[];
+extern Gfx mat_revert_cavestar_Eyez[];
+extern Gfx cavestar_000_displaylist_mesh_layer_1[];
+extern Gfx cavestar_001_displaylist_mesh_layer_4[];
